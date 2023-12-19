@@ -1,2 +1,3 @@
 # VisionDiffusionPendPolicy
- ES158 Final Proj: Vision Based Pendulum Control using Diffusion Policy
+ ES158 Final Project: Vision Based Pendulum Control using Diffusion Policy
+![Visual Summary](figs/fig1.png)
