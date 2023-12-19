@@ -881,7 +881,7 @@ from IPython.display import HTML
 
 def save_images_as_video(imgs, file_path):
     fig, ax = plt.subplots()
-    ax.set_title("Pendulum Animation")
+    #ax.set_title("Pendulum Animation")
     ax.axis('off')
     img_plot = ax.imshow(imgs[0])
 
